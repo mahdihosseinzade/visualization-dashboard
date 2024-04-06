@@ -1,0 +1,10 @@
+<mat-grid-list cols="12" rowHeight="1:4" gutterSize="24px">
+  <mat-grid-tile [colspan]="window.innerWidth>720?6:12">
+    <!--        <utr-high-chart [data]="months()"></utr-high-chart>-->
+    <utr-months-chart [months]="months()" (onClickBar)="handelChangeMonth($event)"
+                      style="width: 100%;"></utr-months-chart>
+  </mat-grid-tile>
+  <mat-grid-tile [colspan]="window.innerWidth>720?6:12">
+    <utr-weeks-chart [month]="selectedMonth"  style="width: 100%;"></utr-weeks-chart>
+  </mat-grid-tile>
+</mat-grid-list>
