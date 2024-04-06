@@ -1,0 +1,109 @@
+{
+  "months": [
+    {
+      "name": "January",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "count": 20
+        },
+        {
+          "name": "Week 2",
+          "count": 30
+        },
+        {
+          "name": "Week 3",
+          "count": 25
+        },
+        {
+          "name": "Week 4",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "name": "February",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "count": 35
+        },
+        {
+          "name": "Week 2",
+          "count": 40
+        },
+        {
+          "name": "Week 3",
+          "count": 30
+        },
+        {
+          "name": "Week 4",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "name": "March",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "count": 50
+        },
+        {
+          "name": "Week 2",
+          "count": 45
+        },
+        {
+          "name": "Week 3",
+          "count": 55
+        },
+        {
+          "name": "Week 4",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "name": "April",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "count": 45
+        },
+        {
+          "name": "Week 2",
+          "count": 55
+        },
+        {
+          "name": "Week 3",
+          "count": 50
+        },
+        {
+          "name": "Week 4",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "name": "May",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "count": 60
+        },
+        {
+          "name": "Week 2",
+          "count": 65
+        },
+        {
+          "name": "Week 3",
+          "count": 70
+        },
+        {
+          "name": "Week 4",
+          "count": 65
+        }
+      ]
+    }
+  ]
+}
